@@ -4,4 +4,4 @@ The above given files are just a prototype of project DETECTIVE ZERO-DAY (Web-Ap
 
 make sure you update the port number of your backend server in the ./zeroday/src/App.js if it is other than localhost:8000. (generally, backend servers run on localhost:8000)
 
-It is agreed that the front-end user interface looks ridiculous. but these are just to show a working prototype of the project.
+It is agreed that the front-end user interface looks ridiculous. but again the projet is still in development stage and these are just to show a working prototype of the project.

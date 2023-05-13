@@ -86,7 +86,7 @@ async def upload_file(file: UploadFile = File(...)):
 
 
 def getchatgpt(attack):
-    openai.api_key = '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'
+    openai.api_key = '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'
 
     def chat_with_gpt(prompt):
         response = openai.Completion.create(
